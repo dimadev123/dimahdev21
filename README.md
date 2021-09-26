@@ -1,6 +1,6 @@
 [![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)](https://github.com/dimahdev21)]
 
-<!https://github.com/progfay/shields-with-icon/edit/master/README.md>
+<!-- https://github.com/progfay/shields-with-icon/edit/master/README.md -->
 ### Blockchain technologies
 ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
 ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
