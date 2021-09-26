@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)]
 
 ### Languages
 
