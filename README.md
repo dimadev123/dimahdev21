@@ -6,7 +6,7 @@
 ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
-![Smart Contract](https://img.shields.io/static/v1?style=for-the-badge&message=Smart Contract&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
+![SmartContract](https://img.shields.io/static/v1?style=for-the-badge&message=SmartContract&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
