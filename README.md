@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
 ### Frameworks
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=ReactNative&color=764ABC&logo=React&logoColor=4FC08D&label=)
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=092E7F&logo=React&logoColor=4FC08D&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
