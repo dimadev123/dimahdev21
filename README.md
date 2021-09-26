@@ -1,4 +1,4 @@
-[![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)](https://github.com/dimahdev21)]
+[![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)](https://github.com/dimahdev21)
 
 <!-- https://github.com/progfay/shields-with-icon/edit/master/README.md -->
 ### Blockchain technologies
