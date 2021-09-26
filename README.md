@@ -1,4 +1,4 @@
-[![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)]
+[![](https://github.com/dimahdev21/dimahdev21/blob/main/dima.gif)]()
 
 ### Languages
 
