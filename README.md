@@ -44,12 +44,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
 
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+<a href="https://github.com/dimahdev21">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dimahdev21&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
-<p>
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
 
 #### Contribution Graph
 [![Dmytro Huseinov's github activity graph](https://activity-graph.herokuapp.com/graph?username=dimahdev21&theme=react-dark)](https://github.com/dimahdev21/github-readme-activity-graph)
