@@ -22,11 +22,10 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
 ### Frameworks
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=092E7F&logo=React&logoColor=4FC08D&label=)
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=8D1F89&logo=React&logoColor=4FC08D&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
-![RxDB](https://img.shields.io/static/v1?style=for-the-badge&message=RxDB&color=8D1F89&logo=RxDB&logoColor=FFFFFF&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
